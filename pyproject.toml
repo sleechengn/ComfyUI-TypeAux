@@ -1,0 +1,13 @@
+[project]
+name = "ComfyUI-TypeAux"
+description = "Various auxiliary nodes, continue to increase when there is free time"
+version = "1.0.0"
+license = { text = "MIT License" }
+dependencies  = []
+
+[project.urls]
+Repository = "https://github.com/sleechengn/ComfyUI-TypeAux"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TypeAux"
