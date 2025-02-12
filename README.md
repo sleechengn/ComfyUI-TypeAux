@@ -9,13 +9,6 @@ StringReplace:   string replacement node, you can use regular expressions and or
 
 
 install:
-
-Method 1:
-
-    open comfyui manager, search "ComfyUI-TypeAux", just to install
-
-Method 2:
-
     enter ComfyUI/custom_nodes run command:
 ```
 git clone https://github.com/sleechengn/ComfyUI-TypeAux
