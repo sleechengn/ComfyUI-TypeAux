@@ -6,3 +6,17 @@ PromptTextNode:   the original OmniGen plugin has a TEXT type input which is inc
     
 
 StringReplace:   string replacement node, you can use regular expressions and original text to replace, such as replacing the "think" tag output by some large models such as DeepSeek R1 
+
+
+install:
+
+Method 1:
+
+    open comfyui manager, search "ComfyUI-TypeAux", just to install
+
+Method 2:
+
+    enter ComfyUI/custom_nodes run command:
+```
+git clone https://github.com/sleechengn/ComfyUI-TypeAux
+```
