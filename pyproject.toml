@@ -9,5 +9,5 @@ dependencies  = []
 Repository = "https://github.com/sleechengn/ComfyUI-TypeAux"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "sleechengn"
 DisplayName = "ComfyUI-TypeAux"
